@@ -1,0 +1,95 @@
+ADOBE INDESIGN PRINTING INSTRUCTIONS FOR SERVICE PROVIDER REPORT
+
+PUBLICATION NAME: FilmingMobilePhones_20140116_v1_0.indd
+
+PACKAGE DATE: 1/19/14 1:34 PM
+Creation Date: 9/11/13
+Modification Date: 12/15/13
+
+CONTACT INFORMATION
+
+Company Name: WITNESS
+Contact: 
+Address: 
+
+
+
+
+
+Phone: 
+Fax: 
+Email: training@witness.org
+
+SPECIAL INSTRUCTIONS AND OTHER NOTES
+
+
+
+
+
+
+External Plug-ins 0
+Non Opaque Objects :None
+
+FONTS
+8 Fonts Used; 0 Missing, 2 Embedded, 0 Incomplete, 0 Protected
+
+Fonts Packaged
+- Name: HelveticaNeue; Type: TrueType, Status: OK
+- Name: HelveticaNeue-Light; Type: TrueType, Status: OK
+- Name: Populaire; Type: OpenType Type 1, Status: OK
+- Name: StrangeloveText; Type: OpenType Type 1, Status: OK
+- Name: TrendSlabFive; Type: Type 1, Status: Embedded
+- Name: TrendSlabOne; Type: Type 1, Status: Embedded
+- Name: TrendSlabOne; Type: OpenType Type 1, Status: OK
+- Name: Veneer; Type: TrueType, Status: OK
+
+
+COLORS AND INKS
+4 Process Inks; 1 Spot Inks
+
+- Name and Type: Process Cyan; Angle: 0.000; Lines/Inch: 0.000
+- Name and Type: Process Magenta; Angle: 0.000; Lines/Inch: 0.000
+- Name and Type: Process Yellow; Angle: 0.000; Lines/Inch: 0.000
+- Name and Type: Process Black; Angle: 0.000; Lines/Inch: 0.000
+- Name and Type: PANTONE Orange 021 C; Angle: 0.000; Lines/Inch: 0.000
+
+
+LINKS AND IMAGES
+(Missing & Embedded Links Only)
+Links and Images: 4 Links Found; 0 Modified, 0 Missing 0 Inaccessible
+Images: 0 Embedded, 0 use RGB color space
+
+
+PRINT SETTINGS
+PPD: N/A, (Canon MX310 series)
+Printing To: Printer
+Number of Copies: 1
+Reader Spreads: No
+Even/Odd Pages: Both
+Pages: All
+Proof: No
+Tiling: None
+Scale: 100%, 100%
+Page Position: Upper Left
+Print Layers: Visible & Printable Layers
+Printer's Marks: None
+Bleed: 0p0, 0p0, 0p0, 0p0
+Color: Composite RGB
+Trapping Mode: None
+Send Image Data: Optimized Subsampling
+OPI/DCS Image Replacement: No
+Page Size: Letter
+Paper Dimensions: 51p0 x 66p0
+Orientation: Portrait
+Negative: No
+Flip Mode: Off
+
+
+FILE PACKAGE LIST
+
+1. MobilePhone JR.indd; type: Adobe InDesign publication; size: 1428K
+2. HelveticaNeue.dfont; type: Font file; size: 5017K
+3. PintassilgoPrints - Populaire.otf; type: Font file; size: 212K
+4. strangelove-text.otf; type: Font file; size: 23K
+5. Latinotype - TrendSlabOne.otf; type: Font file; size: 27K
+6. Yellow Design Studio - Veneer.ttf; type: Font file; size: 921K
